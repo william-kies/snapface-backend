@@ -1,3 +1,3 @@
 # snapface-backend
 
-Run npm install and when its done, run npm un start to launch the server. (http://localhost:3000/)
+Run **npm install** and when its done, run <sup>**npm run start**</sup> to launch the server. (http://localhost:3000/)
